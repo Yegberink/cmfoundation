@@ -8,38 +8,37 @@ sections:
       background:
         color: '#666'
         image:
-          filename: coders.jpg
+          filename: 20150207_Conservatorium_Maastricht_02-803x452.jpg
           filters:
             brightness: 0.7
         position: right
-      content: Take a look at what we're working on...
-      title: "\U0001F44B Welcome to the group"
+      content: 
+      title: "Conservatorium Maastricht Foundation"
     - align: left
       background:
         color: '#555'
         image:
-          filename: contact.jpg
+          filename: piano.jpeg
           filters:
             brightness: 0.7
         position: center
-      content: Share your knowledge with the group and explore exciting new topics
-        together!
-      title: Lunch & Learn ☕️
+      content: 
+      title: 
     - align: right
       background:
         color: '#333'
         image:
-          filename: welcome.jpg
+          filename: orchestra.jpeg
           filters:
             brightness: 0.5
         position: center
-      content: Just opened last month!
+      content: 
       link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
-      title: World-Class Semiconductor Lab
+        icon: 
+        icon_pack: 
+        text: Apply now
+        url: ../student/
+      title: Need financial help during your studies?
   design:
     interval: 2000
     is_fullscreen: true
