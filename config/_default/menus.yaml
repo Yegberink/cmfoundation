@@ -4,16 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: News
-    url: post
+  - name: About
+    url: about
     weight: 20
-  - name: People
-    url: people
-    weight: 30
   - name: For students
     url: student
     weight: 40
-  - name: Sponsoring
+  - name: Help us
     url: sponsoring
     weight: 50
   - name: Contact
