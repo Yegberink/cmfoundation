@@ -31,7 +31,7 @@ sections:
       link:
         icon: 
         icon_pack: 
-        text: Apply now
+        text: Apply now!
         url: ../student/
       title: Need financial help during your studies?
   design:

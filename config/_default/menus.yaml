@@ -7,6 +7,18 @@ main:
   - name: About
     url: about
     weight: 20
+  - name: Who are we?
+    pageRef: about/goals/index
+    parent: About
+    weight: 1
+  - name: Meet the board
+    pageRef: about/bestuur/index
+    parent: About
+    weight: 2
+  - name: Financial statements
+    pageRef: about/jaarrekening/index
+    parent: About
+    weight: 3
   - name: For students
     url: student
     weight: 40

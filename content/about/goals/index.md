@@ -1,6 +1,6 @@
 ---
+title: "Who are we?"
 ---
-**Who are we?**
 
 Conservatorium Maastricht Foundation is a community of music lovers who stimulate the development of innovation in music. The basis for this lies in the education of talented students from the Classical, Jazz and Music in Education departments at Conservatorium Maastricht.
 Conservatorium Maastricht Foundation strives to promote a musical climate without borders, giving the students ample opportunity to develop as performers/creators, teachers, researchers, and/or entrepreneurs. this allows them to contribute to the international world of music and to society.
