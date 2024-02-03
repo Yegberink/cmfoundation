@@ -10,25 +10,34 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/about/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/sponsoring/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/student/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/about/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/about/bestuur/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/about/jaarrekening/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/about/goals/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

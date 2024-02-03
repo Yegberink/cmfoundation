@@ -8,7 +8,7 @@ sections:
       background:
         color: '#666'
         image:
-          filename: assets/media/20150207_Conservatorium_Maastricht_02-803x452.jpg
+          filename: 20150207_Conservatorium_Maastricht_02-803x452.jpg
           filters:
             brightness: 0.7
         position: right
@@ -23,7 +23,7 @@ sections:
       background:
         color: '#333'
         image:
-          filename: assets/media/orchestra.jpeg
+          filename: orchestra.jpeg
           filters:
             brightness: 0.5
         position: center
