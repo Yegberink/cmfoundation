@@ -14,16 +14,11 @@ sections:
         position: right
       content: 
       title: "Conservatorium Maastricht Foundation"
-    - align: left
-      background:
-        color: '#555'
-        image:
-          filename: piano.jpeg
-          filters:
-            brightness: 0.7
-        position: center
-      content: 
-      title: 
+      link:
+        icon: 
+        icon_pack: 
+        text: Donate!
+        url: ../sponsoring/
     - align: right
       background:
         color: '#333'
