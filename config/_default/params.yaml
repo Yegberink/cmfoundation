@@ -34,12 +34,18 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    logo:
+      # Logo text
+      text: "CM foundation"
+      # Logo filename in `assets/media/` folder
+      filename: "logo.png"
+    menu_title: CM foundation
 
 # Site footer
 
@@ -102,17 +108,3 @@ features:
     api_key: ''
     zoom: 15
 
-# Extensions
-
-extensions:
-  decap_cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: false
-
-# Citation style
-
-publications:
-  date_format: January 2006
-  citation_style: apa

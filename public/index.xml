@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tour | CM Foundation</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://superlative-lokum-1ee2e7.netlify.app/</link>
+      <atom:link href="https://superlative-lokum-1ee2e7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Tour</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1cdf2fb96ab495858a3f8119d18c4363_92516_512x512_fill_lanczos_center_3.png</url>
+      <url>https://superlative-lokum-1ee2e7.netlify.app/media/icon_hu1cdf2fb96ab495858a3f8119d18c4363_92516_512x512_fill_lanczos_center_3.png</url>
       <title>Tour</title>
-      <link>https://example.com/</link>
+      <link>https://superlative-lokum-1ee2e7.netlify.app/</link>
     </image>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://superlative-lokum-1ee2e7.netlify.app/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>https://superlative-lokum-1ee2e7.netlify.app/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/musici/</link>
+      <link>https://superlative-lokum-1ee2e7.netlify.app/musici/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/musici/</guid>
+      <guid>https://superlative-lokum-1ee2e7.netlify.app/musici/</guid>
       <description>&lt;p&gt;Here there are names of students with maybe a picture and some stories. Potentially a list of all students that received funding (AVG?).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/sponsoring/</link>
+      <link>https://superlative-lokum-1ee2e7.netlify.app/sponsoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/sponsoring/</guid>
+      <guid>https://superlative-lokum-1ee2e7.netlify.app/sponsoring/</guid>
       <description>&lt;p&gt;&lt;strong&gt;What can you do to help us?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lovers contribute financial support for (international) projects, world-renowned masterclasses, instrument maintenance and &amp;lsquo;first-aid kits&amp;rsquo; for students in need.
 You can help in numerous ways, as you can do a donation of your choice or contribute in other ways than with financial support. It is also possible to be a Platinum, Gold or Silver Lover. Naturally, those wonderful contributions do not go unrewarded. These are unique opportunities, to meet talented musicians at an early stage, follow them and witness their development.&lt;/p&gt;
@@ -66,9 +66,9 @@ Donating is tax-refundable.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/student/</link>
+      <link>https://superlative-lokum-1ee2e7.netlify.app/student/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/student/</guid>
+      <guid>https://superlative-lokum-1ee2e7.netlify.app/student/</guid>
       <description>&lt;p&gt;The Maastricht Academy of Music has set up the Conservatorium Maastricht Foundation (CMF) along with a number of music lovers in order to raise funds to support talented students at the Academy who find themselves in financial difficulty. Finances The funds available to the CMF mean that it can provide a limited number of talented students with financial aid to help them offset their study costs, the purchase of an instrument, or attendance at master classes and competitions in the Netherlands and abroad. Aid is only provided, of course, if the students concerned do not already have sufficient financial resources. Applications and selection Students who wish to apply for financial aid from the CMF must fill in the appropriate application form.&lt;/p&gt;
 &lt;p&gt;Application is possible twice a year:
 First round: You can apply from August till mid-November. You will receive the result (and possible scholarship) in January.
@@ -79,9 +79,9 @@ Second round: You can apply from January till mid-April. You will receive the re
     
     <item>
       <title>Board</title>
-      <link>https://example.com/about/bestuur/</link>
+      <link>https://superlative-lokum-1ee2e7.netlify.app/about/bestuur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/bestuur/</guid>
+      <guid>https://superlative-lokum-1ee2e7.netlify.app/about/bestuur/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Antoine Huenges Wajer (Chair)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vincent Kusters (Secretary)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ton Bemelmans (Treasurer)&lt;/strong&gt;&lt;/p&gt;
@@ -94,27 +94,28 @@ Second round: You can apply from January till mid-April. You will receive the re
     
     <item>
       <title>Financial Statements</title>
-      <link>https://example.com/about/jaarrekening/</link>
+      <link>https://superlative-lokum-1ee2e7.netlify.app/about/jaarrekening/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/jaarrekening/</guid>
+      <guid>https://superlative-lokum-1ee2e7.netlify.app/about/jaarrekening/</guid>
       <description>&lt;p&gt;Conservatorium Maastricht Foundation is an ANBI-foundation (Algemeen Nut Beogende Instelling). Donating is tax-refundable.&lt;/p&gt;
 &lt;p&gt;Read the Financial Statements:&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Jaarrekening</title>
-      <link>https://example.com/about/partners/</link>
+      <title>Partners</title>
+      <link>https://superlative-lokum-1ee2e7.netlify.app/about/partners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/partners/</guid>
-      <description></description>
+      <guid>https://superlative-lokum-1ee2e7.netlify.app/about/partners/</guid>
+      <description>&lt;p&gt;Here there is a space for putting some thanks for the sponsoring&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Who are we?</title>
-      <link>https://example.com/about/goals/</link>
+      <link>https://superlative-lokum-1ee2e7.netlify.app/about/goals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/goals/</guid>
+      <guid>https://superlative-lokum-1ee2e7.netlify.app/about/goals/</guid>
       <description>&lt;p&gt;Conservatorium Maastricht Foundation is a community of music lovers who stimulate the development of innovation in music. The basis for this lies in the education of talented students from the Classical, Jazz and Music in Education departments at Conservatorium Maastricht.
 Conservatorium Maastricht Foundation strives to promote a musical climate without borders, giving the students ample opportunity to develop as performers/creators, teachers, researchers, and/or entrepreneurs. this allows them to contribute to the international world of music and to society.&lt;/p&gt;
 &lt;p&gt;Why?
