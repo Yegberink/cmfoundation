@@ -6,34 +6,34 @@ sections:
     slides:
     - align: center
       background:
-        color: ''
+        color: 
         image:
-          filename: 20150207_Conservatorium_Maastricht_02-803x452.jpg
+          filename: voorbeeld_2_persoon.avif
           filters:
             brightness: 0.7
         position: right
-      content: 
-      title: "Conservatorium Maastricht Foundation"
+      content: Pietje Puck "I am so happy with the opportunity the CM foundation has given me"
+      title: 
       link:
         icon: 
         icon_pack: 
-        text: Donate!
-        url: ../sponsoring/
-    - align: right
+        text: Read more
+        url: ../musici/
+    - align: left
       background:
-        color: ''
+        color: 
         image:
-          filename: orchestra.jpeg
+          filename: voorbeeld_musicus.jpeg
           filters:
             brightness: 0.5
-        position: center
-      content: 
+        position: bottom
+      content: Andere Naam "Very glad"
       link:
         icon: 
         icon_pack: 
-        text: Apply now!
-        url: ../student/
-      title: Need financial help during your studies?
+        text: Read more
+        url: ../musici/
+      title: 
   design:
     interval: 2000
     is_fullscreen: true

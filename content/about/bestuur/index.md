@@ -2,18 +2,18 @@
 title: "Board"
 ---
 
-Antoine Huenges Wajer (Chair)
+**Antoine Huenges Wajer (Chair)**
 
-Vincent Kusters (Secretary)
+**Vincent Kusters (Secretary)**
 
-Ton Bemelmans (Treasurer)
+**Ton Bemelmans (Treasurer)**
 
-Mette Laugs (Member)
+**Mette Laugs (Member)**
 
-Peter Steijvers (Member)
+**Peter Steijvers (Member)**
 
-Edouard Rasquin (Member)
+**Edouard Rasquin (Member)**
 
-John Slangen (Member)
+**John Slangen (Member)**
 
 
