@@ -17,7 +17,7 @@ sections:
         icon: 
         icon_pack: 
         text: Lees meer
-        url: ../musici/
+        url: ../nl/musici/
     - align: left
       background:
         image:
@@ -30,7 +30,7 @@ sections:
         icon: 
         icon_pack: 
         text: Lees meer
-        url: ../musici/
+        url: ../nl/musici/
       title: 
   design:
     interval: 2000
