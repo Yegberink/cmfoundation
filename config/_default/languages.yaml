@@ -23,7 +23,7 @@ nl:
     - name: Over
       url: about
       weight: 20
-    - name: Wie zijn wij
+    - name: Wie zijn wij?
       pageRef: about/goals/index
       parent: Over
       weight: 1
