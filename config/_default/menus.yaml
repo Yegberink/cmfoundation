@@ -25,7 +25,7 @@ main:
   - name: Partners
     pageRef: about/partners/index
     parent: About
-    weight: 3
+    weight: 4
   - name: Our musicians
     url: musici
     weight: 40

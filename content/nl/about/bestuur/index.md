@@ -1,19 +1,19 @@
 ---
-title: "Board"
+title: "Bestuur"
 ---
 
-**Antoine Huenges Wajer (Chair)**
+**Antoine Huenges Wajer (Voorzitter)**
 
-**Vincent Kusters (Secretary)**
+**Vincent Kusters (Secretaris)**
 
-**Ton Bemelmans (Treasurer)**
+**Ton Bemelmans (Penningmeester)**
 
-**Mette Laugs (Member)**
+**Mette Laugs (Lid)**
 
-**Peter Steijvers (Member)**
+**Peter Steijvers (Lid)**
 
-**Edouard Rasquin (Member)**
+**Edouard Rasquin (Lid)**
 
-**John Slangen (Member)**
+**John Slangen (Lid)**
 
 

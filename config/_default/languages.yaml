@@ -25,20 +25,20 @@ nl:
       weight: 20
     - name: Wie zijn wij
       pageRef: about/goals/index
-      parent: About
+      parent: Over
       weight: 1
     - name: Het bestuur
       pageRef: about/bestuur/index
-      parent: About
+      parent: Over
       weight: 2
     - name: Jaarrekeningen
       pageRef: about/jaarrekening/index
-      parent: About
+      parent: Over
       weight: 3
     - name: Partners
       pageRef: about/partners/index
-      parent: About
-      weight: 3
+      parent: Over
+      weight: 4
     - name: Onze musici
       url: musici
       weight: 40

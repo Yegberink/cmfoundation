@@ -9,9 +9,9 @@ sections:
         image:
           filename: voorbeeld_2_persoon.avif
           filters:
-            brightness:
+            brightness: 0.7
         position: right
-      content: Pietje Puck "I am so happy with the opportunity the CM foundation has given me"
+      content: Pietje Puck "Ik ben het CMF super dankbaar voor de kans die ze mij geboden hebben"
       title: 
       link:
         icon: 
@@ -23,9 +23,9 @@ sections:
         image:
           filename: voorbeeld_musicus.jpeg
           filters:
-            brightness:
+            brightness: 0.7
         position: bottom
-      content: Andere Naam "Very glad"
+      content: Andere Naam "Heel blij"
       link:
         icon: 
         icon_pack: 

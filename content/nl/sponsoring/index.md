@@ -1,36 +1,35 @@
 ---
 ---
-**What can you do to help us?**
+**Hoe kunt u ons helpen?**
 
-Lovers contribute financial support for (international) projects, world-renowned masterclasses, instrument maintenance and 'first-aid kits' for students in need.
-You can help in numerous ways, as you can do a donation of your choice or contribute in other ways than with financial support. It is also possible to be a Platinum, Gold or Silver Lover. Naturally, those wonderful contributions do not go unrewarded. These are unique opportunities, to meet talented musicians at an early stage, follow them and witness their development.
+Liefhebbers dragen financiële steun bij voor (internationale) projecten, wereldberoemde masterclasses, instrumentonderhoud en 'EHBO-kits' voor studenten die dat nodig hebben.
+
+Je kunt op talloze manieren helpen, want je kunt een donatie doen naar keuze of op andere manieren bijdragen dan met financiële steun. Het is ook mogelijk om een Platinum-, Gouden- of Zilveren Liefhebber te zijn. Natuurlijk blijven deze prachtige bijdragen niet onbeloond. Dit zijn unieke kansen om getalenteerde musici in een vroeg stadium te ontmoeten, hen te volgen en hun ontwikkeling te zien.
 
 Platinum: 5000 euro
 
-Meet the artists
-Learn more during masterclasses, or simply observe and enjoy
-Free tickets for concerts, or the opportunity to pre-order
-Exclusive Lovers Concert
-VIP experience during selected concerts
-Advertising opportunities
-Gold: 2500 euro
+Ontmoet de artiesten
+Meer leren tijdens masterclasses, of gewoon observeren en genieten
+Gratis kaartjes voor concerten, of de mogelijkheid om vooraf te bestellen
+Exclusief Liefhebbers Concert
+VIP-ervaring tijdens geselecteerde concerten
+Reclamemogelijkheden
+Goud: 2500 euro
 
-Learn more during masterclasses, or simply observe and enjoy
-Free tickets for concerts, or the opportunity to pre-order
-Exclusive Lovers Concert
-VIP experience during selected concerts
-Silver: 1000 euro (alumni discount: 500 euro)
+Meer leren tijdens masterclasses, of gewoon observeren en genieten
+Gratis kaartjes voor concerten, of de mogelijkheid om vooraf te bestellen
+Exclusief Liefhebbers Concert
+VIP-ervaring tijdens geselecteerde concerten
+Zilver: 1000 euro (alumnikorting: 500 euro)
 
-Learn more during masterclasses, or simply observe and enjoy
-Free tickets for concerts, or the opportunity to pre-order
-Exclusive Lovers Concert
-You can donate a free amount to:
+Meer leren tijdens masterclasses, of gewoon observeren en genieten
+Gratis kaartjes voor concerten, of de mogelijkheid om vooraf te bestellen
+Exclusief Liefhebbers Concert
+
+Je kunt een vrij bedrag doneren aan:
 CMF Conservatorium Maastricht Foundation
 IBAN: NL77RABO0191906476
 BIC: RABONL2U
 
-If you would like to become a Platinum, Gold or Silver Lovers, contact us, via communicatie.conservatorium@zuyd.nl
-Thank you!
-
-Conservatorium Maastricht Foundation is an ANBI-foundation (Algemeen Nut Beogende Instelling).
-Donating is tax-refundable.
+Als je een Platinum-, Gouden- of Zilveren Liefhebber wilt worden, neem dan contact met ons op via communicatie.conservatorium@zuyd.nl
+Dank je wel!

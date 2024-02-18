@@ -1,9 +1,9 @@
 ---
 ---
-The Maastricht Academy of Music has set up the Conservatorium Maastricht Foundation (CMF) along with a number of music lovers in order to raise funds to support talented students at the Academy who find themselves in financial difficulty. Finances The funds available to the CMF mean that it can provide a limited number of talented students with financial aid to help them offset their study costs, the purchase of an instrument, or attendance at master classes and competitions in the Netherlands and abroad. Aid is only provided, of course, if the students concerned do not already have sufficient financial resources. Applications and selection Students who wish to apply for financial aid from the CMF must fill in the appropriate application form.
+The Maastricht Academy of Music heeft samen met een aantal muziekliefhebbers de Conservatorium Maastricht Foundation (CMF) opgericht om fondsen te werven ter ondersteuning van getalenteerde studenten aan de Academie die financiële moeilijkheden ondervinden. Financiën De beschikbare fondsen voor de CMF stellen haar in staat om een beperkt aantal getalenteerde studenten financiële steun te bieden om hen te helpen bij het bekostigen van hun studie, de aanschaf van een instrument, of de deelname aan masterclasses en wedstrijden in Nederland en in het buitenland. Hulp wordt uiteraard alleen geboden als de betreffende studenten niet al over voldoende financiële middelen beschikken. Aanmeldingen en selectie Studenten die financiële steun willen aanvragen bij de CMF moeten het juiste aanvraagformulier invullen.
 
-Application is possible twice a year:
-First round: You can apply from August till mid-November. You will receive the result (and possible scholarship) in January.
-Second round: You can apply from January till mid-April. You will receive the result (and possible scholarship) after October 1st of the following academic year.
+Aanmelding is tweemaal per jaar mogelijk:
+Eerste ronde: Je kunt je aanmelden van augustus tot half november. Je ontvangt het resultaat (en eventuele beurs) in januari.
+Tweede ronde: Je kunt je aanmelden van januari tot half april. Je ontvangt het resultaat (en eventuele beurs) na 1 oktober van het volgende academische jaar.
 
-**Apply Now!**
+**Meld je nu aan!**

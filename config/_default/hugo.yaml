@@ -11,9 +11,9 @@ baseURL: 'https://superlative-lokum-1ee2e7.netlify.app' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: nl
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
