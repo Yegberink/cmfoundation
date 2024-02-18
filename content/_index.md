@@ -6,7 +6,6 @@ sections:
     slides:
     - align: center
       background:
-        color: 
         image:
           filename: voorbeeld_2_persoon.avif
           filters:
@@ -21,7 +20,6 @@ sections:
         url: ../musici/
     - align: left
       background:
-        color: 
         image:
           filename: voorbeeld_musicus.jpeg
           filters:
