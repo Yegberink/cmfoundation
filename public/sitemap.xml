@@ -10,6 +10,9 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/musici/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/sponsoring/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -29,6 +32,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/about/jaarrekening/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/about/partners/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/</loc>

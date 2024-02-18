@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tour | Conservatorium Maastricht Foundation</title>
+    <title>Tour | CM Foundation</title>
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Tour</description>
@@ -18,6 +18,15 @@
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/musici/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/musici/</guid>
+      <description>&lt;p&gt;Here there are names of students with maybe a picture and some stories. Potentially a list of all students that received funding (AVG?).&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -69,18 +78,35 @@ Second round: You can apply from January till mid-April. You will receive the re
     </item>
     
     <item>
-      <title>Bestuur</title>
+      <title>Board</title>
       <link>https://example.com/about/bestuur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/about/bestuur/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Antoine Huenges Wajer (Chair)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vincent Kusters (Secretary)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ton Bemelmans (Treasurer)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mette Laugs (Member)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Peter Steijvers (Member)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edouard Rasquin (Member)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;John Slangen (Member)&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial Statements</title>
+      <link>https://example.com/about/jaarrekening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/about/jaarrekening/</guid>
+      <description>&lt;p&gt;Conservatorium Maastricht Foundation is an ANBI-foundation (Algemeen Nut Beogende Instelling). Donating is tax-refundable.&lt;/p&gt;
+&lt;p&gt;Read the Financial Statements:&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Jaarrekening</title>
-      <link>https://example.com/about/jaarrekening/</link>
+      <link>https://example.com/about/partners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/jaarrekening/</guid>
+      <guid>https://example.com/about/partners/</guid>
       <description></description>
     </item>
     
@@ -99,9 +125,7 @@ Musicians are ambitious, focused, creative and studious people. While immersed i
 &lt;p&gt;Enhance the environment at Conservatorium Maastricht; enable and support education to boost quality.
 Build a strong community of alumni and provide life-long learning opportunities.
 Build a strong community of lovers with a passion for music, recognizing the importance of fundraising.
-Within the music community (students and teachers), we want to foster initiative, talent and innovation through financial aid.
-Conservatorium Maastricht Foundation is an ANBI-foundation (Algemeen Nut Beogende Instelling). Donating is tax-refundable.
-Read the Financial Statements:&lt;/p&gt;
+Within the music community (students and teachers), we want to foster initiative, talent and innovation through financial aid.&lt;/p&gt;
 </description>
     </item>
     
