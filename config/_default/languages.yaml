@@ -6,17 +6,48 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+nl:
+  languageCode: nl
+  contentDir: content/nl
+  title: CM foundation
+  params:
+    description: Conservatorium Maastricht foundation
+  menu:
+    main:
+    - name: Conservatorium Maastricht Foundation
+      url: 
+      weight: 10
+    - name: Over
+      url: about
+      weight: 20
+    - name: Wie zijn wij
+      pageRef: about/goals/index
+      parent: About
+      weight: 1
+    - name: Het bestuur
+      pageRef: about/bestuur/index
+      parent: About
+      weight: 2
+    - name: Jaarrekeningen
+      pageRef: about/jaarrekening/index
+      parent: About
+      weight: 3
+    - name: Partners
+      pageRef: about/partners/index
+      parent: About
+      weight: 3
+    - name: Onze musici
+      url: musici
+      weight: 40
+    - name: Voor studenten
+      url: student
+      weight: 50
+    - name: Steun ons
+      url: sponsoring
+      weight: 60
+    - name: Contact
+      url: contact
+      weight: 70
