@@ -6,7 +6,7 @@ sections:
     slides:
     - align: center
       background:
-        color: '#666'
+        color: ''
         image:
           filename: 20150207_Conservatorium_Maastricht_02-803x452.jpg
           filters:
@@ -21,7 +21,7 @@ sections:
         url: ../sponsoring/
     - align: right
       background:
-        color: '#333'
+        color: ''
         image:
           filename: orchestra.jpeg
           filters:
