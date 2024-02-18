@@ -16,7 +16,7 @@ sections:
       link:
         icon: 
         icon_pack: 
-        text: Read more
+        text: Lees meer
         url: ../musici/
     - align: left
       background:
@@ -29,7 +29,7 @@ sections:
       link:
         icon: 
         icon_pack: 
-        text: Read more
+        text: Lees meer
         url: ../musici/
       title: 
   design:
