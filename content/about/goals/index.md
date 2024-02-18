@@ -16,5 +16,3 @@ Enhance the environment at Conservatorium Maastricht; enable and support educati
 Build a strong community of alumni and provide life-long learning opportunities.
 Build a strong community of lovers with a passion for music, recognizing the importance of fundraising.
 Within the music community (students and teachers), we want to foster initiative, talent and innovation through financial aid.
-Conservatorium Maastricht Foundation is an ANBI-foundation (Algemeen Nut Beogende Instelling). Donating is tax-refundable.
-Read the Financial Statements:

@@ -7,7 +7,7 @@ sections:
     - align: center
       background:
         image:
-          filename: voorbeeld_2_persoon.avif
+          filename: assets/media/voorbeeld_2_persoon.avif
           filters:
             brightness: 0.7
         position: right
