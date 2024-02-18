@@ -7,9 +7,9 @@ sections:
     - align: center
       background:
         image:
-          filename: assets/media/voorbeeld_2_persoon.avif
+          filename: voorbeeld_2_persoon.avif
           filters:
-            brightness: 0.7
+            brightness:
         position: right
       content: Pietje Puck "I am so happy with the opportunity the CM foundation has given me"
       title: 
@@ -23,7 +23,7 @@ sections:
         image:
           filename: voorbeeld_musicus.jpeg
           filters:
-            brightness: 0.5
+            brightness:
         position: bottom
       content: Andere Naam "Very glad"
       link:
