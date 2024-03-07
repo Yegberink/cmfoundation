@@ -1,8 +1,16 @@
 ---
-title: "Jaarrekening"
+title: "Financial Statements"
 ---
 
-Conservatorium Maastricht Foundation is een ANBI-fonds (Algemeen Nut Beogende Instelling). Doneren is aftrekbaar van de belasting. 
+Conservatorium Maastricht Foundation is an ANBI-foundation (Algemeen Nut Beogende Instelling). Donating is tax-refundable.
 
-Lees hier de jaarrekeningen:
+Read the Financial Statements:
 
+
+[Jaarrekening 2020](jaarrekening_2020.pdf)
+
+
+[Jaarrekening 2021](jaarrekening_2021.pdf)
+
+
+[Jaarrekening 2022](jaarrekening_2022.pdf)
