@@ -7,3 +7,9 @@ Eerste ronde: Je kunt je aanmelden van augustus tot half november. Je ontvangt h
 Tweede ronde: Je kunt je aanmelden van januari tot half april. Je ontvangt het resultaat (en eventuele beurs) na 1 oktober van het volgende academische jaar.
 
 **Meld je nu aan!**
+
+Gebruik de formulieren hieronder om je aan te melden:
+
+[Word aanmeldingformulier](application_form_202223.docx)
+
+[PDF aanmeldingformulier](application_form_202223.pdf)

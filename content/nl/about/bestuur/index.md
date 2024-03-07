@@ -19,6 +19,7 @@ sections:
       show_interests: false
       show_role: true
       show_social: false
+      columns: '2'
 editor_options: 
   markdown: 
     wrap: 72

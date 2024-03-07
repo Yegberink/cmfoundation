@@ -7,3 +7,10 @@ First round: You can apply from August till mid-November. You will receive the r
 Second round: You can apply from January till mid-April. You will receive the result (and possible scholarship) after October 1st of the following academic year.
 
 **Apply Now!**
+
+Use the applications forms below:
+
+[Word application form](application_form_202223.docx)
+
+[PDF application form](application_form_202223.pdf)
+
