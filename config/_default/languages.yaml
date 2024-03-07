@@ -35,10 +35,6 @@ nl:
       pageRef: about/jaarrekening/index
       parent: Over
       weight: 3
-    - name: Partners
-      pageRef: about/partners/index
-      parent: Over
-      weight: 4
     - name: Onze musici
       url: musici
       weight: 40
@@ -47,7 +43,10 @@ nl:
       weight: 50
     - name: Steun ons
       url: sponsoring
-      weight: 60
+      weight: 66
+    - name: Partners
+      url: partners
+      weight: 67
     - name: Contact
       url: contact
       weight: 70

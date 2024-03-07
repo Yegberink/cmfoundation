@@ -22,18 +22,17 @@ main:
     pageRef: about/jaarrekening/index
     parent: About
     weight: 3
-  - name: Partners
-    pageRef: about/partners/index
-    parent: About
-    weight: 4
   - name: Our musicians
     url: musici
-    weight: 40
+    weight: 30
   - name: For students
     url: student
-    weight: 50
+    weight: 40
   - name: Support us
     url: sponsoring
+    weight: 50
+  - name: Partners
+    url: partners
     weight: 60
   - name: Contact
     url: contact
