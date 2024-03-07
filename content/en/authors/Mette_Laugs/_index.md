@@ -21,7 +21,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lid
+  - Member
 ---
 
 Mette Laugs studied Bassoon with Johan Steinmann at the Royal Conservatoire in The Hague and obtained her Music Performance degree in 1994. Even before graduating, she joined ‘Het Gelders Orkest’ as co-principal bassoon, being appointed solo bassoon with the orchestra in 1998. For Mette, music is all about connecting, communicating and inspiring. With her characteristic energy and passion, she has been teaching since her youth.

@@ -7,12 +7,12 @@ sections:
     content:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      title: Het bestuur
+      title: The board
       user_groups:
-          - Voorzitter
-          - Secretaris
-          - Penningmeester
-          - Lid
+          - Chair
+          - Secretary
+          - Treasurer
+          - Member
       sort_by: Params.last_name
       sort_ascending: true
     design:
