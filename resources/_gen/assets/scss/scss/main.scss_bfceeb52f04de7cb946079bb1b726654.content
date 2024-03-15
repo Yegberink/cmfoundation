@@ -8274,7 +8274,8 @@ a.summary-link {
   .navbar-brand img {
     max-height: 40px; }
   .navbar-toggler {
-    border-color: transparent; }
+    border-color: transparent;
+    color: #fff !important; }
   #navbar-main .main-menu-item {
     text-align: left !important;
     padding-left: 0; }
