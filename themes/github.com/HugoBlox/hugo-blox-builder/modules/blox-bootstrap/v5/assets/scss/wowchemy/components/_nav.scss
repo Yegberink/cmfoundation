@@ -32,12 +32,12 @@
 .navbar {
   height: 70px;
   background: #7a2949!important;
-  box-shadow: 0 0.125rem 0.25rem 0 #fff;
+  box-shadow: none;
   font-size: #{$sta-font-size-small}px;
 
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
-  padding: 0 1rem;
+  padding: 0 0rem;
 
   .nav-item {
     // For z-index compatibility with logo on mobile layout, otherwise nav-item can't be clicked when logo present.

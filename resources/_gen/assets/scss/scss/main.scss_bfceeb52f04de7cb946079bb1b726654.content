@@ -8163,9 +8163,9 @@ a.summary-link {
 .navbar {
   height: 70px;
   background: #7a2949 !important;
-  box-shadow: 0 0.125rem 0.25rem 0 #fff;
+  box-shadow: none;
   font-size: 16.17px;
-  padding: 0 1rem; }
+  padding: 0 0rem; }
   .navbar .nav-item {
     position: relative; }
   @media (max-width: 991.98px) {
