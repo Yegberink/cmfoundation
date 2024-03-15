@@ -1,4 +1,5 @@
 ---
+share: false 
 ---
 **Word vriend vanaf €50 per jaar om onze studenten te ondersteunen; ze zijn u eeuwig dankbaar!**
 

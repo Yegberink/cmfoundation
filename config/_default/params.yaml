@@ -61,8 +61,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '15:04'
+  date_format: ''
+  time_format: none
   address_format: nl
 
 # Site features

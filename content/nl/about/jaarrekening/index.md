@@ -1,5 +1,6 @@
 ---
 title: "Jaarrekeningen"
+share: false 
 ---
 
 Conservatorium Maastricht Foundation is an ANBI-stichting (Algemeen Nut Beogende Instelling). Doneren is aftrekbaar van de belasting.

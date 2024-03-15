@@ -1,4 +1,5 @@
 ---
+share: false 
 ---
 **Become a friend from €50 per year to support our students; they will be eternally grateful!**
 
