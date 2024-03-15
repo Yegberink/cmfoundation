@@ -24,15 +24,15 @@
 }
 
 .dropdown-menu {
-  background-color: $sta-menu-primary !important;
-  color: $sta-menu-text !important;
+  background-color: #fff !important;
+  color: #7a2949 !important;
   z-index: 1032; // I18n dropdown over mobile expanded menu.
 }
 
 .navbar {
   height: 70px;
-  background: $sta-menu-primary;
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
+  background: #7a2949!important;
+  box-shadow: 0 0.125rem 0.25rem 0 #fff;
   font-size: #{$sta-font-size-small}px;
 
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
@@ -67,12 +67,12 @@
       &.active,
       &:hover,
       &:focus {
-        color: $sta-menu-text;
+        color: #fcba7b;
       }
 
       &.active {
         font-weight: bold !important;
-        color: $sta-menu-text-active !important;
+        color: #fcba7b !important;
       }
     }
   }
@@ -85,7 +85,7 @@
   .dropdown-item.active,
   .dropdown-item-active {
     font-weight: bold;
-    color: $sta-menu-text-active !important;
+    color: #fcba7b !important;
   }
 }
 
@@ -124,13 +124,13 @@
 }
 
 .dark .navbar-toggler {
-  color: $sta-dark-menu-text;
+  color: #7a2949;
 }
 
 .navbar-toggler:focus,
 .navbar-toggler:active {
-  outline: none !important;
-  box-shadow: none !important;
+  outline: #7a2949 !important;
+  box-shadow: #7a2949 !important;
 }
 
 @include media-breakpoint-down(md) {
@@ -172,7 +172,7 @@
 }
 
 .dark .navbar-brand {
-  color: $sta-dark-menu-title;
+  color: #7a2949 !important;
 }
 
 // Dynamically fit logo image to space available.
@@ -228,12 +228,12 @@
     left: 0;
     top: 50px;
     width: 100%;
-    background-color: $sta-menu-primary;
+    background-color: #7a2949;
     text-align: center !important;
   }
 
   .dark .navbar-collapse {
-    background-color: $sta-dark-menu-primary;
+    background-color: #7a2949 !important;
   }
 
   #navbar-main .main-menu-item .nav-item {
