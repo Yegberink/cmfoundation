@@ -24,3 +24,13 @@ user_groups:
   - Lid
 ---
 
+**Prof. Peter Steijvers** is **professor hobo en kamermuziek** sinds 1978, en
+hoofd van de afdeling kamermuziek aan het **Conservatorium Maastricht** sinds 2008. He became also the chair of the final assessment
+committee of Bachelor- and Master of music. He studied with Koen van Slogteren.
+Since 1977 he has been the principal oboist of the Limburg Symphony Orchestra
+Maastricht and has also performed as a soloist with various chamber orchestras and
+ensembles in the Netherlands and abroad. Prof. Steijvers is also active as a
+conductor, appearing regularly with the chamber ensemble of the Limburg Symphony
+Orchestra, as well as conducting the full orchestra in a series of youth concerts as
+well as organizing important festivals: The night of Classical Music and the yearly
+Festival of Chamber Music.

@@ -1,36 +1,43 @@
 ---
 ---
-**What can you do to help us?**
+**Become a friend from €50 per year to support our students; they will be eternally grateful!**
 
-Lovers contribute financial support for (international) projects, world-renowned masterclasses, instrument maintenance and 'first-aid kits' for students in need.
-You can help in numerous ways, as you can do a donation of your choice or contribute in other ways than with financial support. It is also possible to be a Platinum, Gold or Silver Lover. Naturally, those wonderful contributions do not go unrewarded. These are unique opportunities, to meet talented musicians at an early stage, follow them and witness their development.
+Our students can apply twice a year to Conservatorium Maastricht
+Foundation for financial support.
 
-Platinum: 5000 euro
+What kind of applications do we receive?
 
-Meet the artists
-Learn more during masterclasses, or simply observe and enjoy
-Free tickets for concerts, or the opportunity to pre-order
-Exclusive Lovers Concert
-VIP experience during selected concerts
-Advertising opportunities
-Gold: 2500 euro
+- A contribution towards the purchase of a new instrument or a bow,
+for example.
+- A contribution for attending international master classes
+- A contribution towards tuition fees because the fees for non-EU
+students are very high.
+- A contribution to the maintenance of the instrument
+- A contribution to international projects
 
-Learn more during masterclasses, or simply observe and enjoy
-Free tickets for concerts, or the opportunity to pre-order
-Exclusive Lovers Concert
-VIP experience during selected concerts
-Silver: 1000 euro (alumni discount: 500 euro)
+If you would like to make a larger donation, please become
+***Maastricht Conservatory Foundation Lover*** :
 
-Learn more during masterclasses, or simply observe and enjoy
-Free tickets for concerts, or the opportunity to pre-order
-Exclusive Lovers Concert
-You can donate a free amount to:
-CMF Conservatorium Maastricht Foundation
-IBAN: NL77RABO0191906476
-BIC: RABONL2U
+*Silver CMF Lover* for €1000 per year. For this you will receive 2 free
+tickets to all concerts of the Maastricht Academy of Music.
 
-If you would like to become a Platinum, Gold or Silver Lovers, contact us, via communicatie.conservatorium@zuyd.nl
-Thank you!
+*Golden CMF Lover* for €2500 per year. For this you will receive 2 free
+tickets to all concerts of Maastricht Academy of Music and a free concert
+of the student you supported at your home or company.
 
-Conservatorium Maastricht Foundation is an ANBI-foundation (Algemeen Nut Beogende Instelling).
-Donating is tax-refundable.
+*Platinum CMF Lover* for €5000 per year. For this you will receive 2 free
+tickets to all concerts of the Maastricht Academy of Music, a free concert
+of the student you supported at your home or company and an
+appointment with name and/or photo on the &#39;wall of fame&#39; in the
+conservatory.
+
+You can of course also donate a free amount at:
+
+Maastricht Academy of Music Foundation <br>
+IBAN: NL77RABO0191906476 <br>
+BIC: RABONL2U <br>
+
+Here should be a link for the application form including direct debit.
+APPLICATION FORM
+
+If you have any questions please feel free to [contact](/en/contact) us.
