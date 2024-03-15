@@ -62,7 +62,7 @@
     display: flex;
 
     .nav-link {
-      color: rgba($sta-menu-text, 0.85);
+      color: #fff !important;
 
       &.active,
       &:hover,
@@ -95,7 +95,7 @@
 
   .navbar-nav {
     .nav-link {
-      color: rgba($sta-dark-menu-text, 0.85);
+      color: #ffffff;
 
       &.active,
       &:hover,

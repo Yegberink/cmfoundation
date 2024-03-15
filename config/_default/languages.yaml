@@ -17,9 +17,6 @@ nl:
     description: Conservatorium Maastricht foundation
   menu:
     main:
-    - name: Conservatorium Maastricht Foundation
-      url: 
-      weight: 10
     - name: Over
       url: about
       weight: 20

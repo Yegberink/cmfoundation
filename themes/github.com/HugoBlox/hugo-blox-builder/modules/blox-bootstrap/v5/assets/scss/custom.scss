@@ -1,1 +1,10 @@
 // Override this file to add your own SCSS styling.
+/* Custom CSS */
+.navbar.navbar-expand-lg {
+    background-color: #7a2949; /* Set the background color to #7a2949 */
+    color: #fff;
+}
+
+.navbar .navbar-nav .nav-link {
+    color: #fff; /* Set the color to white */
+}
