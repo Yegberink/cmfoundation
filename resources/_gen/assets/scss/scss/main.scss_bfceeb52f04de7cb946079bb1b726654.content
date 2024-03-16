@@ -8275,7 +8275,8 @@ a.summary-link {
     max-height: 40px; }
   .navbar-toggler {
     border-color: transparent;
-    color: #fff !important; }
+    color: #fff !important;
+    padding-left: 1rem; }
   #navbar-main .main-menu-item {
     text-align: left !important;
     padding-left: 0; }
@@ -8297,15 +8298,16 @@ a.summary-link {
 ul.nav-icons {
   list-style-type: none;
   font-size: 18px;
-  padding: 0.5rem 0;
-  margin: 0; }
+  padding: 0.5rem 0rem;
+  margin: 0.5rem; }
 
 ul.nav-icons li {
   display: inline;
   padding-right: 1rem; }
 
 ul.nav-icons li:last-of-type {
-  padding-right: 0; }
+  padding-right: 0.5rem;
+  padding-left: 0rem; }
 
 ul.nav-icons li.nav-item a.nav-link {
   padding: 0; }
