@@ -44,4 +44,3 @@ Hier moet een link komen voor het aanmeldformulier incl. automatisch
 incasso. AANMELDFORMULIER
 
 Mocht u vragen hebben, neem dan gerust [contact](/nl/contact) met ons op.
-
