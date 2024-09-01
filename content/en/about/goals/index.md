@@ -3,17 +3,22 @@ title: "Who are we?"
 share: false 
 ---
 
-Conservatorium Maastricht Foundation is a community of music lovers who stimulate the development of innovation in music. The basis for this lies in the education of talented students from the Classical, Jazz and Music in Education departments at Conservatorium Maastricht.
-Conservatorium Maastricht Foundation strives to promote a musical climate without borders, giving the students ample opportunity to develop as performers/creators, teachers, researchers, and/or entrepreneurs. this allows them to contribute to the international world of music and to society.
+The Conservatorium Maastricht Foundation is a foundation that
+aims to financially support students of Conservatorium
+Maastricht. We focus on very talented music students, with
+limited financial resources, from the Classical, jazz and Music
+in Education departments.
+Through a clearly defined application, which is unmistakably
+related to musical development, we support students in the
+following ways, among others:
 
-Why?
-Being able to study and develop your talents is a wonderful opportunity. An opportunity which many of us have had, but which is not available to everyone, or not available to the same extent. That also applies to musicians. As well as requiring talent, studying at a conservatoire has specific financial implications. Performing requires travel, instruments need to be purchased and maintained, and special masterclasses attended.
-In order to support young talented musicians, Conservatorium Maastricht has set up the Conservatorium Maastricht Foundation (CMF). Thanks to the warm contributions from sympathisers, this foundation can help students from around the world to fund their studies. These donations have a huge impact. It is a quality incentive that allows students to concentrate fully on their studies and eventually excel in their profession even more.
+- contribution purchase of new instrument;
+- attending international master classes;
+- maintenance of instruments.
 
-Our Goals
-Musicians are ambitious, focused, creative and studious people. While immersed in their studies, many find themselves struggling with financial dificulties. Whether this is due to budget cuts in the music sector or personal issues, it inevitably means they are unable to attend certain crucial programmes. We have set ourselves the following goals to help remedy this situation:
-
-Enhance the environment at Conservatorium Maastricht; enable and support education to boost quality.
-Build a strong community of alumni and provide life-long learning opportunities.
-Build a strong community of lovers with a passion for music, recognizing the importance of fundraising.
-Within the music community (students and teachers), we want to foster initiative, talent and innovation through financial aid.
+A contribution to tuition fees can also be requested.
+We want to help students who have limited financial resources
+in their musical development.
+Thanks to the warm contributions of sympathizers, this
+foundation can help students finance their studies at
+Conservatorium Maastricht.

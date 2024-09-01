@@ -11,7 +11,7 @@ sections:
           filters:
             brightness: 0.7
         position: right
-      content: Pietje Puck "Ik ben het CMF super dankbaar voor de kans die ze mij geboden hebben"
+      content: Huang Qian Hui "Het Conservatorium Maastricht Foundation heeft me de mogelijkheid gegeven om aan concoursen mee te doen."
       title: 
       link:
         icon: 
@@ -25,7 +25,7 @@ sections:
           filters:
             brightness: 0.7
         position: bottom
-      content: Andere Naam "Heel blij"
+      content: Arion Vlastaris "Ik zal het Conservatorium Maastricht Foundation altijd dankbaar zijn voor de financiële hulp die ik heb ontvangen."
       link:
         icon: 
         icon_pack: 

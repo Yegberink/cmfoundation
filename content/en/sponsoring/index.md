@@ -1,42 +1,44 @@
 ---
 share: false 
 ---
-**Become a friend from €50 per year to support our students; they will be eternally grateful!**
+
+<div style="text-align: center;">
+  <strong>Become a friend from €50 per year to support our students; <br> They will be eternally grateful!</strong> <br> <br>
+</div>
 
 Our students can apply twice a year to Conservatorium Maastricht
 Foundation for financial support.
-
 What kind of applications do we receive?
-
 - A contribution towards the purchase of a new instrument or a bow,
 for example.
 - A contribution for attending international master classes
 - A contribution towards tuition fees because the fees for non-EU
 students are very high.
 - A contribution to the maintenance of the instrument
-- A contribution to international projects
 
-If you would like to make a larger donation, please become
-***Maastricht Conservatory Foundation Lover*** :
+<div style="text-align: center;">
+  If you would like to make a larger donation, please become<br><em>“Conservatorium Maastricht Foundation Friend”.</em><br><br>
+</div>
 
-*Silver CMF Lover* for €1000 per year. For this you will receive 2 free
-tickets to all concerts of the Maastricht Academy of Music.
+Conservatorium Maastricht has ANBI status, so your donation is tax
+deductable in the Netherlands.
 
-*Golden CMF Lover* for €2500 per year. For this you will receive 2 free
-tickets to all concerts of Maastricht Academy of Music and a free concert
-of the student you supported at your home or company.
+_Silver CMF Friend_ for €1000 per year. For this you will receive two free
+tickets to all concerts of Conservatorium Maastricht.
 
-*Platinum CMF Lover* for €5000 per year. For this you will receive 2 free
-tickets to all concerts of the Maastricht Academy of Music, a free concert
-of the student you supported at your home or company and an
-appointment with name and/or photo on the &#39;wall of fame&#39; in the
-conservatory.
+_Golden CMF Friend_ for €2500 per year. For this you will receive two free
+tickets to all concerts of Conservatorium Maastricht and a free concert of
+a student at your home or at your company.
 
-You can of course also donate a free amount at:
+_Platinum CMF Friend_ for €5000 per year. For this you will receive two
+free tickets to all concerts of Conservatorium Maastricht and - if you wish
+and by arrangement - a concert (also free, of course) by a student at your home or at your company. And a mention with name and/or photo
+on the 'wall of fame' in the conservatoire.
 
-Maastricht Academy of Music Foundation <br>
+You can of course also donate a free amount at: <br>
+Conservatorium Maastricht Foundation <br>
 IBAN: NL77RABO0191906476 <br>
-BIC: RABONL2U <br>
+BIC: RABONL2U
 
 Here should be a link for the application form including direct debit.
 APPLICATION FORM

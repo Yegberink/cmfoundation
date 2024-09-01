@@ -16,3 +16,5 @@ Read the Financial Statements:
 
 [Jaarrekening 2022](jaarrekening_2022.pdf)
 
+
+[Jaarrekening 2023](jaarrekening_2023.pdf)

@@ -11,7 +11,7 @@ sections:
           filters:
             brightness:
         position: right
-      content: Pietje Puck "I am so happy with the opportunity the CM foundation has given me"
+      content: Huang Qian Hui "The Conservatorium Maastricht Foundation has provided me with the opportunity to participate in competitions."
       title: 
       link:
         icon: 
@@ -25,7 +25,7 @@ sections:
           filters:
             brightness:
         position: bottom
-      content: Andere Naam "Very glad"
+      content: Arion Vlastaris "I’ll always be grateful for the financial help I received from the Conservatorium Maastricht Foundation."
       link:
         icon: 
         icon_pack: 

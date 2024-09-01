@@ -11,7 +11,6 @@ sections:
       user_groups:
           - Chair
           - Secretary
-          - Treasurer
           - Member
       sort_by: Params.last_name
       sort_ascending: true

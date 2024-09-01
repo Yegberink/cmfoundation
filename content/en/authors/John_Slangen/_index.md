@@ -24,15 +24,19 @@ user_groups:
   - Member
 ---
 
-John Slangen (Kerkrade 1951) studeerde Theorie der Muziek en
-Compositie aan het Conservatorium Maastricht, beide vakken bij Matty
-Niël. Na zijn Theorieopleiding werd hij aangesteld als leraar
-theoretische vakken (Harmonieleer, Contrapunt en Analyse) aan het
-Conservatorium Maastricht. In 1980 behaalde hij de Prijs voor
-Compositie. Vanaf 1989 is hij werkzaam als hoofdvakdocent Compositie,
-sinds 1990, als het hoofdvakdocent Muziek Theorie. Sinds 2003 is hij
-naast hoofdvakdocent, staflid (Hoofd Muziek Klassiek) van het
-Conservatorium. Hij werkt(e) in vele werkgroepen, adviesraden en
-besturen Slangen componeerde tot op dit moment ruim honderd vijftig
-werken, solostukken, kamermuziek, werken voor orkest, cantates en een
-twee (kamer)opera's
+John Slangen (Kerkrade 1951) studied Theory of Music and
+Composition at the Maastricht Academy of Music, both subjects
+with Matty Niël. After his theory training, he was appointed as a
+teacher of theoretical subjects (Harmony, Counterpoint and
+Analysis) at the Maastricht Academy of Music. In 1980 he won
+the Prize for Composition. Since 1989 he has worked as a main
+subject teacher of Composition and since 1990 as a main
+subject teacher of Music Theory. Since 2003, in addition to
+being a main subject teacher, he has been a staff member
+(Head of Classical Music) at the Conservatory. He was member
+in many working groups, advisory boards and boards. Up to
+now, Slangen has composed more than one hundred and fifty
+works, solo pieces, chamber music, works for orchestra,
+cantatas and two (chamber) operas.
+
+www.johnslangen.com
